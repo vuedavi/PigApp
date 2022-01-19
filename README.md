@@ -38,6 +38,6 @@ npm run build
 npm run lint
 ```
 
-
+---
 
 <p>Made with ❤️ by Luís Daví</p>
