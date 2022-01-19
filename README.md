@@ -7,9 +7,10 @@
 </p>
 
 <br>
+
 | Listagem de Transações | Adicionar Transação | Detalhes da Transação |
 |------------------------|---------------------|-----------------------|
-<img src="./src/assets/print001.png"  width="300" height="528"> | <img src="./src/assets/print002.png"  width="300" height="528"> | <img src="./src/assets/print002.png"  width="300" height="528"> |
+|<img src="./src/assets/print001.png" height="528"> | <img src="./src/assets/print001.png"  height="528"> | <img src="./src/assets/print001.png" height="528"> |
 
 
 <!-- ## Project setup
